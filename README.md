@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I've moved most of my code, both public and private, out of github. You can find it [here](https://git.sdf.org/jchenry). 
+
+Any new development on public, non-archival repos will also happen there and repos on github will be updated only to point to the new versions. 
+
+
 <!--
 **jchenry/jchenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
